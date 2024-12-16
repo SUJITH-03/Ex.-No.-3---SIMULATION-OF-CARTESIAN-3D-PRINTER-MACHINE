@@ -1,5 +1,5 @@
 # Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-
+# Date: 16/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -54,6 +54,8 @@
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/046b20d9-22ab-4779-b66e-cfaf4b3bc896)
 
 ## Output:
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/b11ce5d6-0dcd-47ad-85e2-5e01083005a8" />
+
 
 ### Name: SUJITH A
 ### Register Number: 24900130
